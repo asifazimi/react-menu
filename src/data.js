@@ -71,5 +71,13 @@ const menu = [
     img: "./images/item-9.jpeg",
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
+  {
+    id: 10,
+    title: "Coca-Cola",
+    category: "Beverages",
+    price: 1,
+    img: "./images/coca.jfif",
+    desc: `Coca-Cola® is a refreshing McDonald's soda option that complements all of your menu favorites. Have you ever wondered, is Coke® at McDonald’s different?`,
+  },
 ];
 export default menu;
